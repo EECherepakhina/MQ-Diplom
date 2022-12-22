@@ -1,13 +1,13 @@
 @font-face {
     font-family: "OpenSans";
-    src: local("OpenSans"), url(../fonts/OpenSans-Regular.woff);
+    src: local("OpenSans"), url(../Fonts/OpenSans-Regular.woff);
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
 @font-face {
     font-family: "OpenSans";
-    src: local("OpenSans"), url(../fonts/OpenSans-Bold.woff);
+    src: local("OpenSans"), url(../Fonts/OpenSans-Bold.woff);
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -24,7 +24,7 @@ body {
     padding: 35px 0;
     min-height: 450px;
     margin-bottom: 64px;
-    background-image: url(../images/banner-bg.jpg);
+    background-image: url(../Images/banner-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -830,7 +830,7 @@ body {
       padding: 50px 0;
       min-height: 390px;
       margin-bottom: 50px;
-      background-image: url(../images/banner-bg-tablet.jpg);
+      background-image: url(../Images/banner-bg-tablet.jpg);
     }
   .container {
       max-width: 698px;
